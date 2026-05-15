@@ -1,0 +1,794 @@
+PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'Duplicate entry '3000-3000-CD-2024-05-08-1038-COLD' for key 'idx_ARCHIVE_AGENT_CAMPAIGN_ID_DEPTKEY_DATE_LIST_ID_TYPE'' in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php:46
+Stack trace:
+#0 /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php(46): mysqli->query('insert into ARC...')
+#1 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php on line 46
+
+Fatal error: Uncaught exception 'mysqli_sql_exception' with message 'Duplicate entry '3000-3000-CD-2024-05-08-1038-COLD' for key 'idx_ARCHIVE_AGENT_CAMPAIGN_ID_DEPTKEY_DATE_LIST_ID_TYPE'' in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php:46
+Stack trace:
+#0 /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php(46): mysqli->query('insert into ARC...')
+#1 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php on line 46
+PHP Warning:  include_once(/srv/www/php_include.php): failed to open stream: No such file or directory in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php on line 6
+
+Warning: include_once(/srv/www/php_include.php): failed to open stream: No such file or directory in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php on line 6
+PHP Warning:  include_once(): Failed opening '/srv/www/php_include.php' for inclusion (include_path='.:/usr/share/php5:/usr/share/php5/PEAR') in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php on line 6
+
+Warning: include_once(): Failed opening '/srv/www/php_include.php' for inclusion (include_path='.:/usr/share/php5:/usr/share/php5/PEAR') in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php on line 6
+PHP Notice:  Undefined variable: Scon in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php on line 7
+
+Notice: Undefined variable: Scon in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php on line 7
+PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php on line 7
+
+Warning: mysqli_select_db() expects parameter 1 to be mysqli, null given in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php on line 7
+PHP Notice:  Undefined variable: yestDate in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php on line 9
+
+Notice: Undefined variable: yestDate in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php on line 9
+PHP Notice:  Undefined variable: Scon in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php on line 14
+
+Notice: Undefined variable: Scon in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php on line 14
+PHP Fatal error:  Call to a member function query() on a non-object in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php on line 14
+
+Fatal error: Call to a member function query() on a non-object in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php on line 14
+
+
+PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'sum(a.wait_sec) as wait_sec,
+	sum(a.talk_sec) as talk_sec,
+	sum(a.dispo_sec) a' at line 3' in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php:29
+Stack trace:
+#0 /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php(29): mysqli->query('select \r\n\ta.use...')
+#1 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php on line 29
+
+Fatal error: Uncaught exception 'mysqli_sql_exception' with message 'You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'sum(a.wait_sec) as wait_sec,
+	sum(a.talk_sec) as talk_sec,
+	sum(a.dispo_sec) a' at line 3' in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php:29
+Stack trace:
+#0 /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php(29): mysqli->query('select \r\n\ta.use...')
+#1 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php on line 29
+
+PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'sum(a.wait_sec) as wait_sec,
+	sum(a.talk_sec) as talk_sec,
+	sum(a.dispo_sec) a' at line 3' in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php:29
+Stack trace:
+#0 /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php(29): mysqli->query('select \r\n\ta.use...')
+#1 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php on line 29
+
+Fatal error: Uncaught exception 'mysqli_sql_exception' with message 'You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'sum(a.wait_sec) as wait_sec,
+	sum(a.talk_sec) as talk_sec,
+	sum(a.dispo_sec) a' at line 3' in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php:29
+Stack trace:
+#0 /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php(29): mysqli->query('select \r\n\ta.use...')
+#1 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php on line 29
+
+PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'sum(a.wait_sec) as wait_sec,
+	sum(a.talk_sec) as talk_sec,
+	sum(a.dispo_sec) a' at line 3' in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php:29
+Stack trace:
+#0 /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php(29): mysqli->query('select \r\n\ta.use...')
+#1 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php on line 29
+
+Fatal error: Uncaught exception 'mysqli_sql_exception' with message 'You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'sum(a.wait_sec) as wait_sec,
+	sum(a.talk_sec) as talk_sec,
+	sum(a.dispo_sec) a' at line 3' in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php:29
+Stack trace:
+#0 /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php(29): mysqli->query('select \r\n\ta.use...')
+#1 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php on line 29
+
+PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'sum(a.wait_sec) as wait_sec,
+	sum(a.talk_sec) as talk_sec,
+	sum(a.dispo_sec) a' at line 3' in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php:29
+Stack trace:
+#0 /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php(29): mysqli->query('select \r\n\ta.use...')
+#1 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php on line 29
+
+Fatal error: Uncaught exception 'mysqli_sql_exception' with message 'You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'sum(a.wait_sec) as wait_sec,
+	sum(a.talk_sec) as talk_sec,
+	sum(a.dispo_sec) a' at line 3' in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php:29
+Stack trace:
+#0 /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php(29): mysqli->query('select \r\n\ta.use...')
+#1 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php on line 29
+
+PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'sum(a.wait_sec) as wait_sec,
+	sum(a.talk_sec) as talk_sec,
+	sum(a.dispo_sec) a' at line 3' in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php:29
+Stack trace:
+#0 /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php(29): mysqli->query('select \r\n\ta.use...')
+#1 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php on line 29
+
+Fatal error: Uncaught exception 'mysqli_sql_exception' with message 'You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'sum(a.wait_sec) as wait_sec,
+	sum(a.talk_sec) as talk_sec,
+	sum(a.dispo_sec) a' at line 3' in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php:29
+Stack trace:
+#0 /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php(29): mysqli->query('select \r\n\ta.use...')
+#1 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php on line 29
+
+PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'sum(a.wait_sec) as wait_sec,
+	sum(a.talk_sec) as talk_sec,
+	sum(a.dispo_sec) a' at line 3' in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php:29
+Stack trace:
+#0 /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php(29): mysqli->query('select \r\n\ta.use...')
+#1 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php on line 29
+
+Fatal error: Uncaught exception 'mysqli_sql_exception' with message 'You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'sum(a.wait_sec) as wait_sec,
+	sum(a.talk_sec) as talk_sec,
+	sum(a.dispo_sec) a' at line 3' in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php:29
+Stack trace:
+#0 /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php(29): mysqli->query('select \r\n\ta.use...')
+#1 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php on line 29
+
+PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'sum(a.wait_sec) as wait_sec,
+	sum(a.talk_sec) as talk_sec,
+	sum(a.dispo_sec) a' at line 3' in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php:29
+Stack trace:
+#0 /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php(29): mysqli->query('select \r\n\ta.use...')
+#1 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php on line 29
+
+Fatal error: Uncaught exception 'mysqli_sql_exception' with message 'You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'sum(a.wait_sec) as wait_sec,
+	sum(a.talk_sec) as talk_sec,
+	sum(a.dispo_sec) a' at line 3' in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php:29
+Stack trace:
+#0 /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php(29): mysqli->query('select \r\n\ta.use...')
+#1 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php on line 29
+
+PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'sum(a.wait_sec) as wait_sec,
+	sum(a.talk_sec) as talk_sec,
+	sum(a.dispo_sec) a' at line 3' in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php:29
+Stack trace:
+#0 /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php(29): mysqli->query('select \r\n\ta.use...')
+#1 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php on line 29
+
+Fatal error: Uncaught exception 'mysqli_sql_exception' with message 'You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'sum(a.wait_sec) as wait_sec,
+	sum(a.talk_sec) as talk_sec,
+	sum(a.dispo_sec) a' at line 3' in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php:29
+Stack trace:
+#0 /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php(29): mysqli->query('select \r\n\ta.use...')
+#1 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php on line 29
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7: command not found
+
+
+PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'asterisk.ARCHIVE' doesn't exist in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php:60
+Stack trace:
+#0 /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php(60): mysqli->query()
+#1 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php on line 60
+
+Fatal error: Uncaught mysqli_sql_exception: Table 'asterisk.ARCHIVE' doesn't exist in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php:60
+Stack trace:
+#0 /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php(60): mysqli->query()
+#1 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php on line 60
+
+PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'asterisk.ARCHIVE' doesn't exist in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php:60
+Stack trace:
+#0 /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php(60): mysqli->query()
+#1 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php on line 60
+
+Fatal error: Uncaught mysqli_sql_exception: Table 'asterisk.ARCHIVE' doesn't exist in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php:60
+Stack trace:
+#0 /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php(60): mysqli->query()
+#1 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php on line 60
+
+PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'asterisk.ARCHIVE' doesn't exist in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php:60
+Stack trace:
+#0 /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php(60): mysqli->query()
+#1 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php on line 60
+
+Fatal error: Uncaught mysqli_sql_exception: Table 'asterisk.ARCHIVE' doesn't exist in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php:60
+Stack trace:
+#0 /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php(60): mysqli->query()
+#1 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php on line 60
+
+PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'asterisk.ARCHIVE' doesn't exist in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php:60
+Stack trace:
+#0 /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php(60): mysqli->query()
+#1 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php on line 60
+
+Fatal error: Uncaught mysqli_sql_exception: Table 'asterisk.ARCHIVE' doesn't exist in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php:60
+Stack trace:
+#0 /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php(60): mysqli->query()
+#1 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php on line 60
+
+PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'asterisk.ARCHIVE' doesn't exist in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php:60
+Stack trace:
+#0 /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php(60): mysqli->query()
+#1 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php on line 60
+
+Fatal error: Uncaught mysqli_sql_exception: Table 'asterisk.ARCHIVE' doesn't exist in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php:60
+Stack trace:
+#0 /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php(60): mysqli->query()
+#1 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php on line 60
+
+PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php on line 57
+
+Warning: mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php on line 57
+PHP Fatal error:  Uncaught mysqli_sql_exception: No data supplied for parameters in prepared statement in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php:58
+Stack trace:
+#0 /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php(58): mysqli_stmt->execute()
+#1 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php on line 58
+
+Fatal error: Uncaught mysqli_sql_exception: No data supplied for parameters in prepared statement in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php:58
+Stack trace:
+#0 /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php(58): mysqli_stmt->execute()
+#1 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php on line 58
+
+
+
+PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php on line 57
+
+Warning: mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php on line 57
+PHP Fatal error:  Uncaught mysqli_sql_exception: No data supplied for parameters in prepared statement in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php:58
+Stack trace:
+#0 /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php(58): mysqli_stmt->execute()
+#1 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php on line 58
+
+Fatal error: Uncaught mysqli_sql_exception: No data supplied for parameters in prepared statement in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php:58
+Stack trace:
+#0 /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php(58): mysqli_stmt->execute()
+#1 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php on line 58
+
+
+
+
+
+
+
+
+PHP Notice:  Undefined variable: curTimeSamp in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php on line 8
+
+Notice: Undefined variable: curTimeSamp in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php on line 8
+ 
+PHP Notice:  Undefined variable: archive in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php on line 28
+
+Notice: Undefined variable: archive in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php on line 28
+done
+PHP Notice:  Undefined variable: curTimeSamp in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php on line 8
+
+Notice: Undefined variable: curTimeSamp in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php on line 8
+ 
+PHP Notice:  Undefined variable: archive in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php on line 28
+
+Notice: Undefined variable: archive in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php on line 28
+done
+2025-03-06 00:57:01 
+Cleanup Complete
+2025-03-07 00:57:01 
+Cleanup Complete
+2025-03-08 00:57:01 
+Cleanup Complete
+2025-03-09 00:57:01 
+Cleanup Complete
+2025-03-10 00:57:01 
+Cleanup Complete
+2025-03-11 00:57:01 
+Cleanup Complete
+2025-03-12 00:57:01 
+Cleanup Complete
+2025-03-13 00:57:01 
+Cleanup Complete
+2025-03-14 00:57:01 
+Cleanup Complete
+2025-03-15 00:57:01 
+Cleanup Complete
+2025-03-16 00:57:01 
+Cleanup Complete
+2025-03-17 00:57:01 
+Cleanup Complete
+2025-03-18 00:57:01 
+Cleanup Complete
+2025-03-19 00:57:01 
+Cleanup Complete
+2025-03-20 00:57:01 
+Cleanup Complete
+2025-03-21 00:57:01 
+Cleanup Complete
+2025-03-22 00:57:01 
+Cleanup Complete
+2025-03-23 00:57:01 
+Cleanup Complete
+2025-03-24 00:57:02 
+Cleanup Complete
+2025-03-25 00:57:01 
+Cleanup Complete
+2025-03-26 00:57:01 
+Cleanup Complete
+2025-03-27 00:57:01 
+Cleanup Complete
+2025-03-28 00:57:01 
+Cleanup Complete
+2025-03-29 00:57:01 
+Cleanup Complete
+2025-03-30 00:57:01 
+Cleanup Complete
+2025-03-31 00:57:01 
+Cleanup Complete
+2025-04-01 00:57:01 
+Cleanup Complete
+2025-04-02 00:57:01 
+Cleanup Complete
+2025-04-03 00:57:01 
+Cleanup Complete
+2025-04-04 00:57:01 
+Cleanup Complete
+2025-04-05 00:57:01 
+Cleanup Complete
+2025-04-06 00:57:01 
+Cleanup Complete
+2025-04-07 00:57:01 
+Cleanup Complete
+2025-04-08 00:57:01 
+Cleanup Complete
+2025-04-09 00:57:01 
+Cleanup Complete
+2025-04-10 00:57:01 
+Cleanup Complete
+2025-04-11 00:57:01 
+Cleanup Complete
+2025-04-12 00:57:01 
+Cleanup Complete
+2025-04-13 00:57:01 
+Cleanup Complete
+2025-04-14 00:57:01 
+Cleanup Complete
+2025-04-15 00:57:01 
+Cleanup Complete
+2025-04-16 00:57:02 
+Cleanup Complete
+2025-04-17 00:57:01 
+Cleanup Complete
+2025-04-18 00:57:01 
+Cleanup Complete
+2025-04-19 00:57:02 
+Cleanup Complete
+2025-04-20 00:57:01 
+Cleanup Complete
+2025-04-21 00:57:01 
+Cleanup Complete
+2025-04-22 00:57:01 
+Cleanup Complete
+2025-04-23 00:57:01 
+Cleanup Complete
+2025-04-24 00:57:01 
+Cleanup Complete
+2025-04-25 00:57:01 
+Cleanup Complete
+2025-04-26 00:57:01 
+Cleanup Complete
+2025-04-27 00:57:01 
+Cleanup Complete
+2025-04-28 00:57:01 
+Cleanup Complete
+2025-04-29 00:57:01 
+Cleanup Complete
+2025-04-30 00:57:01 
+Cleanup Complete2025-05-01 00:57:01 
+Cleanup Complete2025-05-02 00:57:01 
+Cleanup Complete2025-05-03 00:57:01 
+Cleanup Complete2025-05-04 00:57:01 
+Cleanup Complete2025-05-05 00:57:01 
+Cleanup Complete2025-05-06 00:57:02 
+Cleanup Complete2025-05-07 00:57:01 
+Cleanup Complete2025-05-08 00:57:01 
+Cleanup Complete2025-05-09 00:57:02 
+Cleanup Complete2025-05-10 00:57:01 
+Cleanup Complete2025-05-11 00:57:01 
+Cleanup Complete2025-05-12 00:57:01 
+Cleanup Complete2025-05-13 00:57:01 
+Cleanup Complete2025-05-14 00:57:01 
+Cleanup Complete2025-05-15 00:57:01 
+Cleanup Complete2025-05-16 00:57:01 
+Cleanup Complete2025-05-17 00:57:01 
+Cleanup Complete2025-05-18 00:57:01 
+Cleanup Complete2025-05-19 00:57:01 
+Cleanup Complete2025-05-20 00:57:02 
+Cleanup Complete2025-05-21 00:57:01 
+Cleanup Complete2025-05-22 00:57:01 
+Cleanup Complete2025-05-23 00:57:01 
+Cleanup Complete2025-05-24 00:57:01 
+Cleanup Complete2025-05-25 00:57:01 
+Cleanup Complete2025-05-26 00:57:01 
+Cleanup Complete2025-05-27 00:57:01 
+Cleanup Complete2025-05-28 00:57:01 
+Cleanup Complete2025-05-29 00:57:01 
+Cleanup Complete2025-05-30 00:57:01 
+Cleanup Complete2025-05-31 00:57:01 
+Cleanup Complete2025-06-01 00:57:01 
+Cleanup Complete2025-06-02 00:57:01 
+Cleanup Complete2025-06-03 00:57:01 
+Cleanup Complete2025-06-04 00:57:01 
+Cleanup Complete2025-06-05 00:57:02 
+Cleanup Complete2025-06-06 00:57:01 
+Cleanup Complete2025-06-07 00:57:01 
+Cleanup Complete2025-06-08 00:57:01 
+Cleanup Complete2025-06-09 00:57:01 
+Cleanup Complete2025-06-10 00:57:01 
+Cleanup Complete2025-06-11 00:57:01 
+Cleanup Complete2025-06-12 00:57:01 
+Cleanup Complete2025-06-13 00:57:01 
+Cleanup Complete2025-06-14 00:57:01 
+Cleanup Complete2025-06-15 00:57:01 
+Cleanup Complete2025-06-16 00:57:01 
+Cleanup Complete2025-06-17 00:57:01 
+Cleanup Complete2025-06-18 00:57:01 
+Cleanup Complete2025-06-19 00:57:01 
+Cleanup Complete2025-06-20 00:57:01 
+Cleanup Complete2025-06-21 00:57:01 
+Cleanup Complete2025-06-22 00:57:01 
+Cleanup Complete2025-06-23 00:57:01 
+Cleanup Complete2025-06-24 00:57:01 
+Cleanup Complete2025-06-25 00:57:01 
+Cleanup Complete2025-06-26 00:57:01 
+PHP Notice:  Undefined variable: curTimestamp in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php on line 15
+
+Notice: Undefined variable: curTimestamp in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php on line 15
+ Skipping import (flag set) 4892 time(s)
+2025-06-27 00:57:01 
+Cleanup Complete2025-06-28 00:57:01 
+Cleanup Complete2025-06-29 00:57:01 
+Cleanup Complete2025-06-30 00:57:01 
+Cleanup Complete2025-07-01 00:57:01 
+PHP Notice:  Undefined variable: curTimestamp in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php on line 15
+
+Notice: Undefined variable: curTimestamp in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php on line 15
+ Skipping import (flag set) 5000 time(s)
+2025-07-02 00:57:01 
+PHP Notice:  Undefined variable: curTimestamp in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php on line 15
+
+Notice: Undefined variable: curTimestamp in /srv/www/htdocs/ProSpeaking/Reports/DPH/dailyCleanUp.php on line 15
+ Skipping import (flag set) 4867 time(s)
+
+
+2025-07-03 00:57:01 
+2025-07-03 00:57:01: Cleanup Complete
+
+2025-07-04 00:57:01 
+2025-07-04 00:57:01: Cleanup Complete
+
+2025-07-05 00:57:01 
+2025-07-05 00:57:01: Cleanup Complete
+
+2025-07-06 00:57:01 
+2025-07-06 00:57:01: Cleanup Complete
+
+2025-07-07 00:57:02 
+2025-07-07 00:57:02: Cleanup Complete
+
+2025-07-08 00:57:01 
+2025-07-08 00:57:01: Cleanup Complete
+
+2025-07-09 00:57:01 
+2025-07-09 00:57:01: Cleanup Complete
+
+2025-07-10 00:57:01 
+2025-07-10 00:57:01: Cleanup Complete
+
+2025-07-11 00:57:01 
+2025-07-11 00:57:01: Cleanup Complete
+
+2025-07-12 00:57:01 
+2025-07-12 00:57:01: Cleanup Complete
+
+2025-07-13 00:57:01 
+2025-07-13 00:57:01: Cleanup Complete
+
+2025-07-14 00:57:01 
+2025-07-14 00:57:01: Cleanup Complete
+
+2025-07-15 00:57:01 
+2025-07-15 00:57:01: Cleanup Complete
+
+2025-07-16 00:57:01 
+2025-07-16 00:57:01: Cleanup Complete
+
+2025-07-17 04:50:01 
+2025-07-17 04:50:01: Cleanup Complete
+
+2025-07-18 04:50:01 
+2025-07-18 04:50:01: Cleanup Complete
+
+2025-07-19 04:50:01 
+2025-07-19 04:50:01: Cleanup Complete
+
+2025-07-20 04:50:01 
+2025-07-20 04:50:01: Cleanup Complete
+
+2025-07-21 04:50:01 
+2025-07-21 04:50:01: Cleanup Complete
+
+2025-07-22 04:50:01 
+2025-07-22 04:50:01: Cleanup Complete
+
+2025-07-23 04:50:02 
+2025-07-23 04:50:02: Cleanup Complete
+
+2025-07-24 04:50:01 
+2025-07-24 04:50:01: Cleanup Complete
+
+2025-07-25 04:50:01 
+2025-07-25 04:50:01: Cleanup Complete
+
+2025-07-26 04:50:01 
+2025-07-26 04:50:01: Cleanup Complete
+
+2025-07-27 04:50:02 
+2025-07-27 04:50:02: Cleanup Complete
+
+2025-07-28 04:50:01 
+2025-07-28 04:50:01: Cleanup Complete
+
+2025-07-29 04:50:01 
+2025-07-29 04:50:01: Cleanup Complete
+
+2025-07-30 04:50:01 
+2025-07-30 04:50:01: Cleanup Complete
+
+2025-07-31 04:50:01 
+2025-07-31 04:50:01: Cleanup Complete
+
+2025-08-01 04:50:01 
+2025-08-01 04:50:01: Cleanup Complete
+
+2025-08-02 04:50:01 
+2025-08-02 04:50:01: Cleanup Complete
+
+2025-08-03 04:50:01 
+2025-08-03 04:50:01: Cleanup Complete
+
+2025-08-04 04:50:01 
+2025-08-04 04:50:01: Cleanup Complete
+
+2025-08-05 04:50:01 
+2025-08-05 04:50:01: Cleanup Complete
+
+2025-08-06 04:50:01 
+2025-08-06 04:50:01: Cleanup Complete
+
+2025-08-07 04:50:01 
+2025-08-07 04:50:01: Cleanup Complete
+
+2025-08-08 04:50:01 
+2025-08-08 04:50:01: Cleanup Complete
+
+2025-08-09 04:50:01 
+2025-08-09 04:50:01: Cleanup Complete
+
+2025-08-10 04:50:01 
+2025-08-10 04:50:01: Cleanup Complete
+
+2025-08-11 04:50:02 
+2025-08-11 04:50:02: Cleanup Complete
+
+2025-08-12 04:50:01 
+2025-08-12 04:50:01: Cleanup Complete
+
+2025-08-13 04:50:01 
+2025-08-13 04:50:01: Cleanup Complete
+
+2025-08-14 04:50:01 
+2025-08-14 04:50:01: Cleanup Complete
+
+2025-08-15 04:50:02 
+2025-08-15 04:50:02: Cleanup Complete
+
+2025-08-16 04:50:02 
+2025-08-16 04:50:02: Cleanup Complete
+
+2025-08-17 04:50:01 
+2025-08-17 04:50:01: Cleanup Complete
+
+2025-08-18 04:50:01 
+2025-08-18 04:50:01: Cleanup Complete
+
+2025-08-19 04:50:01 
+2025-08-19 04:50:01: Cleanup Complete
+
+2025-08-20 04:50:01 
+2025-08-20 04:50:01: Cleanup Complete
+
+2025-08-21 04:50:01 
+2025-08-21 04:50:01: Cleanup Complete
+
+2025-08-22 04:50:01 
+2025-08-22 04:50:01: Cleanup Complete
+
+2025-08-23 04:50:01 
+2025-08-23 04:50:01: Cleanup Complete
+
+2025-08-24 04:50:01 
+2025-08-24 04:50:01: Cleanup Complete
+
+2025-08-25 04:50:01 
+2025-08-25 04:50:01: Cleanup Complete
+
+2025-08-26 04:50:01 
+2025-08-26 04:50:01: Cleanup Complete
+
+2025-08-27 04:50:01 
+2025-08-27 04:50:01: Cleanup Complete
+
+2025-08-28 04:50:01 
+2025-08-28 04:50:01: Cleanup Complete
+
+2025-08-29 04:50:01 
+2025-08-29 04:50:01: Cleanup Complete
+
+2025-08-30 04:50:01 
+2025-08-30 04:50:01: Cleanup Complete
+
+2025-08-31 04:50:01 
+2025-08-31 04:50:01: Cleanup Complete
+
+2025-09-01 04:50:01 
+2025-09-01 04:50:01: Cleanup Complete
+
+2025-09-02 04:50:02 
+2025-09-02 04:50:02: Cleanup Complete
+
+2025-09-03 04:50:01 
+2025-09-03 04:50:01: Cleanup Complete
+
+2025-09-04 04:50:01 
+2025-09-04 04:50:01: Cleanup Complete
+
+2025-09-05 04:50:01 
+2025-09-05 04:50:01: Cleanup Complete
+
+2025-09-06 04:50:01 
+2025-09-06 04:50:01: Cleanup Complete
+
+2025-09-07 04:50:01 
+2025-09-07 04:50:01: Cleanup Complete
+
+2025-09-08 04:50:02 
+2025-09-08 04:50:02: Cleanup Complete
+
+2025-09-09 04:50:01 
+2025-09-09 04:50:01: Cleanup Complete
+
+2025-09-10 04:50:01 
+2025-09-10 04:50:01: Cleanup Complete
+
+2025-09-11 04:50:01 
+2025-09-11 04:50:01: Cleanup Complete
+
+2025-09-12 04:50:01 
+2025-09-12 04:50:01: Cleanup Complete
+
+2025-09-13 04:50:01 
+2025-09-13 04:50:01: Cleanup Complete
+
+2025-09-14 04:50:01 
+2025-09-14 04:50:01: Cleanup Complete
+
+2025-09-15 04:50:01 
+2025-09-15 04:50:01: Cleanup Complete

@@ -1,0 +1,2760 @@
+ 
+PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'VFR.ARCHIVE' doesn't exist in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:15
+Stack trace:
+#0 /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php(15): mysqli->query()
+#1 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 15
+
+Fatal error: Uncaught mysqli_sql_exception: Table 'VFR.ARCHIVE' doesn't exist in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:15
+Stack trace:
+#0 /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php(15): mysqli->query()
+#1 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 15
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 22
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 22
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:22
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 22
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:22
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 22
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 22
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 22
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:22
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 22
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:22
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 22
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 22
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 22
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:22
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 22
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:22
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 22
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 22
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 22
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:22
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 22
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:22
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 22
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 22
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 22
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:22
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 22
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:22
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 22
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 22
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 22
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:22
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 22
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:22
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 22
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Notice:  Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Notice: Undefined variable: stmt in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23
+
+Fatal error: Uncaught Error: Call to a member function close() on null in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php:23
+Stack trace:
+#0 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/VFR/dailyCleanUp.php on line 23

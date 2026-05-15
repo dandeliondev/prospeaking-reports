@@ -1,0 +1,1381 @@
+2024-07-24
+Email sent successfully.
+
+2024-07-25
+Email sent successfully.
+
+2024-07-26
+Email sent successfully.
+
+2024-07-26
+Email sent successfully.
+
+2024-07-27
+2024-07-29
+Email sent successfully.
+
+2024-07-30
+Email sent successfully.
+
+2024-07-31
+Email sent successfully.
+
+2024-08-01
+Email sent successfully.
+
+2024-08-02
+Email sent successfully.
+
+2024-08-02
+Email sent successfully.
+
+2024-08-03
+2024-08-05
+Email sent successfully.
+
+2024-08-06
+Email sent successfully.
+
+2024-09-09
+Email sent successfully.
+
+2024-09-10
+Email sent successfully.
+
+2024-09-11
+Email sent successfully.
+
+2024-09-12
+Email sent successfully.
+
+2024-09-13
+Email sent successfully.
+
+2024-09-13
+Email sent successfully.
+
+2024-09-14
+2024-09-16
+Email sent successfully.
+
+2024-09-17
+Email sent successfully.
+
+2024-09-18
+Email sent successfully.
+
+2024-09-19
+Email sent successfully.
+
+2024-09-20
+Email sent successfully.
+
+2024-09-20
+Email sent successfully.
+
+2024-09-21
+2024-09-23
+Email sent successfully.
+
+2024-09-24
+Email sent successfully.
+
+2024-09-25
+Email sent successfully.
+
+2024-09-26
+Email sent successfully.
+
+2024-09-27
+Email sent successfully.
+
+2024-09-27
+Email sent successfully.
+
+2024-09-28
+2024-09-30
+Email sent successfully.
+
+2024-10-01
+Email sent successfully.
+
+2024-10-02
+Email sent successfully.
+
+2024-10-03
+Email sent successfully.
+
+2024-10-04
+Email sent successfully.
+
+2024-10-04
+Email sent successfully.
+
+2024-10-05
+2024-10-07
+Email sent successfully.
+
+2024-10-08
+PHP Warning:  array_values() expects parameter 1 to be array, null given in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 81
+PHP Warning:  array_unique() expects parameter 1 to be array, null given in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 82
+PHP Warning:  Invalid argument supplied for foreach() in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 84
+Email sent successfully.
+
+2024-10-09
+PHP Warning:  array_values() expects parameter 1 to be array, null given in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 81
+PHP Warning:  array_unique() expects parameter 1 to be array, null given in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 82
+PHP Warning:  Invalid argument supplied for foreach() in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 84
+Email sent successfully.
+
+2024-10-10
+PHP Warning:  array_values() expects parameter 1 to be array, null given in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 81
+PHP Warning:  array_unique() expects parameter 1 to be array, null given in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 82
+PHP Warning:  Invalid argument supplied for foreach() in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 84
+Email sent successfully.
+
+2024-10-11
+PHP Warning:  array_values() expects parameter 1 to be array, null given in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 81
+PHP Warning:  array_unique() expects parameter 1 to be array, null given in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 82
+PHP Warning:  Invalid argument supplied for foreach() in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 84
+Email sent successfully.
+
+2024-10-11
+PHP Warning:  array_values() expects parameter 1 to be array, null given in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 81
+PHP Warning:  array_unique() expects parameter 1 to be array, null given in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 82
+PHP Warning:  Invalid argument supplied for foreach() in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 84
+Email sent successfully.
+
+2024-10-12
+2024-10-14
+PHP Warning:  array_values() expects parameter 1 to be array, null given in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 81
+PHP Warning:  array_unique() expects parameter 1 to be array, null given in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 82
+PHP Warning:  Invalid argument supplied for foreach() in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 84
+Email sent successfully.
+
+2024-10-15
+PHP Warning:  array_values() expects parameter 1 to be array, null given in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 81
+PHP Warning:  array_unique() expects parameter 1 to be array, null given in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 82
+PHP Warning:  Invalid argument supplied for foreach() in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 84
+Email sent successfully.
+
+2024-10-16
+PHP Warning:  array_values() expects parameter 1 to be array, null given in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 81
+PHP Warning:  array_unique() expects parameter 1 to be array, null given in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 82
+PHP Warning:  Invalid argument supplied for foreach() in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 84
+Email sent successfully.
+
+2024-10-17
+PHP Warning:  array_values() expects parameter 1 to be array, null given in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 81
+PHP Warning:  array_unique() expects parameter 1 to be array, null given in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 82
+PHP Warning:  Invalid argument supplied for foreach() in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 84
+Email sent successfully.
+
+2024-10-18
+PHP Warning:  array_values() expects parameter 1 to be array, null given in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 81
+PHP Warning:  array_unique() expects parameter 1 to be array, null given in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 82
+PHP Warning:  Invalid argument supplied for foreach() in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 84
+Email sent successfully.
+
+2024-10-18
+PHP Warning:  array_values() expects parameter 1 to be array, null given in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 81
+PHP Warning:  array_unique() expects parameter 1 to be array, null given in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 82
+PHP Warning:  Invalid argument supplied for foreach() in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 84
+Email sent successfully.
+
+2024-10-19
+2024-10-21
+PHP Warning:  array_values() expects parameter 1 to be array, null given in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 81
+PHP Warning:  array_unique() expects parameter 1 to be array, null given in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 82
+PHP Warning:  Invalid argument supplied for foreach() in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 84
+Email sent successfully.
+
+2024-10-22
+PHP Warning:  array_values() expects parameter 1 to be array, null given in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 81
+PHP Warning:  array_unique() expects parameter 1 to be array, null given in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 82
+PHP Warning:  Invalid argument supplied for foreach() in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 84
+Email sent successfully.
+
+
+2024-10-23
+PHP Warning:  array_values() expects parameter 1 to be array, null given in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 81
+PHP Warning:  array_unique() expects parameter 1 to be array, null given in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 82
+PHP Warning:  Invalid argument supplied for foreach() in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 84
+Email sent successfully.
+
+
+2024-10-24
+PHP Warning:  array_values() expects parameter 1 to be array, null given in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 81
+PHP Warning:  array_unique() expects parameter 1 to be array, null given in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 82
+PHP Warning:  Invalid argument supplied for foreach() in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 84
+Email sent successfully.
+
+
+2024-10-25
+PHP Warning:  array_values() expects parameter 1 to be array, null given in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 81
+PHP Warning:  array_unique() expects parameter 1 to be array, null given in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 82
+PHP Warning:  Invalid argument supplied for foreach() in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 84
+Email sent successfully.
+
+
+2024-10-25
+PHP Warning:  array_values() expects parameter 1 to be array, null given in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 81
+PHP Warning:  array_unique() expects parameter 1 to be array, null given in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 82
+PHP Warning:  Invalid argument supplied for foreach() in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 84
+Email sent successfully.
+
+
+2024-10-26
+PHP Warning:  array_values() expects parameter 1 to be array, null given in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 81
+PHP Warning:  array_unique() expects parameter 1 to be array, null given in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 82
+PHP Warning:  Invalid argument supplied for foreach() in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 84
+Email sent successfully.
+
+
+2024-10-28
+PHP Warning:  array_values() expects parameter 1 to be array, null given in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 81
+PHP Warning:  array_unique() expects parameter 1 to be array, null given in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 82
+PHP Warning:  Invalid argument supplied for foreach() in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 84
+Email sent successfully.
+
+
+2024-10-29
+Email sent successfully.
+
+
+2024-10-30
+Email sent successfully.
+
+
+2024-10-31
+Email sent successfully.
+
+
+2024-11-01
+Email sent successfully.
+
+
+2024-11-01
+Email sent successfully.
+
+
+2024-11-02
+
+2024-11-04
+Email sent successfully.
+
+
+2024-11-05
+Email sent successfully.
+
+
+2024-11-06
+Email sent successfully.
+
+
+2024-11-07
+Email sent successfully.
+
+
+2024-11-08
+Email sent successfully.
+
+
+2024-11-08
+Email sent successfully.
+
+
+2024-11-09
+
+2024-11-11
+Email sent successfully.
+
+
+2024-11-12
+Email sent successfully.
+
+
+2024-11-13
+Email sent successfully.
+
+
+2024-11-14
+Email sent successfully.
+
+
+2024-11-15
+Email sent successfully.
+
+
+2024-11-15
+Email sent successfully.
+
+
+2024-11-16
+
+2024-11-18
+Email sent successfully.
+
+
+2024-11-19
+Email sent successfully.
+
+
+2024-11-20
+Email sent successfully.
+
+
+2024-11-21
+Email sent successfully.
+
+
+2024-11-22
+Email sent successfully.
+
+
+2024-11-22
+Email sent successfully.
+
+
+2024-11-23
+
+2024-11-25
+Email sent successfully.
+
+
+2024-11-26
+Email sent successfully.
+
+
+2024-11-27
+Email sent successfully.
+
+
+2024-11-28
+PHP Warning:  Division by zero in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 122
+PHP Warning:  Division by zero in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 123
+PHP Warning:  Division by zero in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 127
+PHP Warning:  Division by zero in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 128
+Email sent successfully.
+
+
+2024-11-29
+Email sent successfully.
+
+
+2024-11-29
+
+2024-11-30
+Email sent successfully.
+
+
+2024-12-02
+Email sent successfully.
+
+
+2024-12-03
+Email sent successfully.
+
+
+2024-12-04
+Email sent successfully.
+
+
+2024-12-05
+Email sent successfully.
+
+
+2024-12-06
+Email sent successfully.
+
+
+2024-12-06
+Email sent successfully.
+
+
+2024-12-07
+
+2024-12-09
+Email sent successfully.
+
+
+2024-12-10
+Email sent successfully.
+
+
+2024-12-11
+Email sent successfully.
+
+
+2024-12-12
+Email sent successfully.
+
+
+2024-12-13
+Email sent successfully.
+
+
+2024-12-13
+Email sent successfully.
+
+
+2024-12-14
+
+2024-12-16
+Email sent successfully.
+
+
+2024-12-17
+Email sent successfully.
+
+
+2024-12-18
+Email sent successfully.
+
+
+2024-12-23
+Email sent successfully.
+
+
+2024-12-24
+Email sent successfully.
+
+
+2024-12-25
+PHP Warning:  Division by zero in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 122
+PHP Warning:  Division by zero in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 123
+PHP Warning:  Division by zero in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 127
+PHP Warning:  Division by zero in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 128
+Email sent successfully.
+
+
+2024-12-26
+Email sent successfully.
+
+
+2024-12-27
+Email sent successfully.
+
+
+2024-12-27
+
+2024-12-28
+Email sent successfully.
+
+
+2024-12-30
+Email sent successfully.
+
+
+2024-12-31
+PHP Warning:  Division by zero in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 122
+PHP Warning:  Division by zero in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 123
+PHP Warning:  Division by zero in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 127
+PHP Warning:  Division by zero in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 128
+Email sent successfully.
+
+
+2025-01-01
+Email sent successfully.
+
+
+2025-01-02
+Email sent successfully.
+
+
+2025-01-03
+Email sent successfully.
+
+
+2025-01-03
+
+2025-01-04
+Email sent successfully.
+
+
+2025-01-06
+Email sent successfully.
+
+
+2025-01-07
+Email sent successfully.
+
+
+2025-01-08
+Email sent successfully.
+
+
+2025-01-09
+Email sent successfully.
+
+
+2025-01-10
+Email sent successfully.
+
+
+2025-01-10
+Email sent successfully.
+
+
+2025-01-11
+
+2025-01-13
+Email sent successfully.
+
+
+2025-01-14
+Email sent successfully.
+
+
+2025-01-15
+Email sent successfully.
+
+
+2025-01-16
+Email sent successfully.
+
+
+2025-01-17
+Email sent successfully.
+
+
+2025-01-17
+Email sent successfully.
+
+
+2025-01-18
+
+2025-01-20
+Email sent successfully.
+
+
+2025-01-21
+Email sent successfully.
+
+
+2025-01-22
+Email sent successfully.
+
+
+2025-01-23
+Email sent successfully.
+
+
+2025-01-24
+Email sent successfully.
+
+
+2025-01-24
+Email sent successfully.
+
+
+2025-01-25
+
+2025-01-27
+Email sent successfully.
+
+
+2025-01-28
+Email sent successfully.
+
+
+2025-01-29
+Email sent successfully.
+
+
+2025-01-30
+Email sent successfully.
+
+
+2025-01-31
+Email sent successfully.
+
+
+2025-01-31
+Email sent successfully.
+
+
+2025-02-01
+
+2025-02-03
+Email sent successfully.
+
+
+2025-02-04
+Email sent successfully.
+
+
+2025-02-05
+Email sent successfully.
+
+
+2025-02-06
+Email sent successfully.
+
+
+2025-02-07
+Email sent successfully.
+
+
+2025-02-07
+Email sent successfully.
+
+
+2025-02-08
+
+2025-02-10
+Email sent successfully.
+
+
+2025-02-11
+Email sent successfully.
+
+
+2025-02-12
+Email sent successfully.
+
+
+2025-02-13 22:20:01 -- 2025-02-13
+Email sent successfully.
+
+
+2025-02-14 22:20:01 -- 2025-02-14
+Email sent successfully.
+
+
+2025-02-14 22:21:01 -- 2025-02-14
+Email sent successfully.
+
+20: command not found
+21: command not found
+
+2025-02-15 22:21:02 -- 2025-02-15
+
+2025-02-19 22:20:01 -- 2025-02-19
+Email sent successfully.
+
+
+2025-02-20 22:20:01 -- 2025-02-20
+Email sent successfully.
+
+
+2025-02-21 22:20:01 -- 2025-02-21
+Email sent successfully.
+
+
+2025-02-21 22:21:01 -- 2025-02-21
+Email sent successfully.
+
+
+2025-02-22 22:21:01 -- 2025-02-22
+Email sent successfully.
+
+
+2025-02-24 22:20:01 -- 2025-02-24
+Email sent successfully.
+
+
+2025-02-25 22:20:01 -- 2025-02-25
+Email sent successfully.
+
+
+2025-02-26 22:20:01 -- 2025-02-26
+Email sent successfully.
+
+
+2025-02-27 22:20:01 -- 2025-02-27
+Email sent successfully.
+
+
+2025-02-28 22:20:01 -- 2025-02-28
+Email sent successfully.
+
+
+2025-02-28 22:21:01 -- 2025-02-28
+Email sent successfully.
+
+
+2025-03-01 22:21:01 -- 2025-03-01
+
+2025-03-03 22:20:01 -- 2025-03-03
+Email sent successfully.
+
+
+2025-03-04 22:20:01 -- 2025-03-04
+Email sent successfully.
+
+
+2025-03-05 22:20:01 -- 2025-03-05
+Email sent successfully.
+
+
+2025-03-06 22:20:01 -- 2025-03-06
+Email sent successfully.
+
+
+2025-03-07 22:20:01 -- 2025-03-07
+Email sent successfully.
+
+
+2025-03-07 22:21:01 -- 2025-03-07
+Email sent successfully.
+
+
+2025-03-08 22:21:01 -- 2025-03-08
+
+2025-03-10 22:20:01 -- 2025-03-10
+Email sent successfully.
+
+
+2025-03-11 22:20:01 -- 2025-03-11
+Email sent successfully.
+
+
+2025-03-12 22:20:01 -- 2025-03-12
+Email sent successfully.
+
+
+2025-03-13 22:20:01 -- 2025-03-13
+Email sent successfully.
+
+
+2025-03-14 22:20:01 -- 2025-03-14
+Email sent successfully.
+
+
+2025-03-14 22:21:01 -- 2025-03-14
+Email sent successfully.
+
+
+2025-03-15 22:21:01 -- 2025-03-15
+
+2025-03-17 22:20:02 -- 2025-03-17
+Email sent successfully.
+
+
+2025-03-18 22:20:01 -- 2025-03-18
+Email sent successfully.
+
+
+2025-03-19 22:20:01 -- 2025-03-19
+Email sent successfully.
+
+
+2025-03-20 22:20:01 -- 2025-03-20
+Email sent successfully.
+
+
+2025-03-21 22:20:01 -- 2025-03-21
+Email sent successfully.
+
+
+2025-03-21 22:21:01 -- 2025-03-21
+Email sent successfully.
+
+
+2025-03-22 22:21:01 -- 2025-03-22
+
+2025-03-24 22:20:01 -- 2025-03-24
+Email sent successfully.
+
+
+2025-03-25 22:20:01 -- 2025-03-25
+Email sent successfully.
+
+
+2025-03-26 22:20:01 -- 2025-03-26
+Email sent successfully.
+
+
+2025-03-27 22:20:01 -- 2025-03-27
+Email sent successfully.
+
+
+2025-03-28 22:20:01 -- 2025-03-28
+Email sent successfully.
+
+
+2025-03-28 22:21:01 -- 2025-03-28
+Email sent successfully.
+
+
+2025-03-29 22:21:01 -- 2025-03-29
+
+2025-03-31 22:20:01 -- 2025-03-31
+Email sent successfully.
+
+
+2025-04-01 22:20:02 -- 2025-04-01
+Email sent successfully.
+
+
+2025-04-02 22:20:02 -- 2025-04-02
+Email sent successfully.
+
+
+2025-04-03 22:20:01 -- 2025-04-03
+Email sent successfully.
+
+
+2025-04-04 22:20:01 -- 2025-04-04
+Email sent successfully.
+
+
+2025-04-04 22:21:01 -- 2025-04-04
+Email sent successfully.
+
+
+2025-04-05 22:21:01 -- 2025-04-05
+
+2025-04-07 22:20:01 -- 2025-04-07
+Email sent successfully.
+
+
+2025-04-08 22:20:02 -- 2025-04-08
+Email sent successfully.
+
+
+2025-04-09 22:20:01 -- 2025-04-09
+Email sent successfully.
+
+
+2025-04-10 22:20:02 -- 2025-04-10
+Email sent successfully.
+
+
+2025-04-11 22:20:01 -- 2025-04-11
+Email sent successfully.
+
+
+2025-04-11 22:21:01 -- 2025-04-11
+Email sent successfully.
+
+
+2025-04-12 22:21:01 -- 2025-04-12
+
+2025-04-14 22:20:01 -- 2025-04-14
+Email sent successfully.
+
+
+2025-04-15 22:20:01 -- 2025-04-15
+Email sent successfully.
+
+
+2025-04-16 22:20:01 -- 2025-04-16
+Email sent successfully.
+
+
+2025-04-17 22:20:01 -- 2025-04-17
+Email sent successfully.
+
+
+2025-04-18 22:20:01 -- 2025-04-18
+Email sent successfully.
+
+
+2025-04-18 22:21:01 -- 2025-04-18
+Email sent successfully.
+
+
+2025-04-19 22:21:01 -- 2025-04-19
+
+2025-04-21 22:20:02 -- 2025-04-21
+Email sent successfully.
+
+
+2025-04-22 22:20:01 -- 2025-04-22
+Email sent successfully.
+
+
+2025-04-23 22:20:01 -- 2025-04-23
+Email sent successfully.
+
+
+2025-04-24 22:20:01 -- 2025-04-24
+Email sent successfully.
+
+
+2025-04-25 22:20:01 -- 2025-04-25
+Email sent successfully.
+
+
+2025-04-25 22:21:01 -- 2025-04-25
+Email sent successfully.
+
+
+2025-04-26 22:21:01 -- 2025-04-26
+
+2025-04-28 22:20:01 -- 2025-04-28
+Email sent successfully.
+
+
+2025-04-29 22:20:01 -- 2025-04-29
+Email sent successfully.
+
+
+2025-04-30 22:20:01 -- 2025-04-30
+Email sent successfully.
+
+2025-05-01 22:20:01 -- 2025-05-01
+Email sent successfully.
+
+2025-05-02 22:20:01 -- 2025-05-02
+Email sent successfully.
+
+2025-05-02 22:21:01 -- 2025-05-02
+Email sent successfully.
+
+2025-05-03 22:21:01 -- 2025-05-03
+2025-05-05 22:20:01 -- 2025-05-05
+Email sent successfully.
+
+2025-05-06 22:20:01 -- 2025-05-06
+Email sent successfully.
+
+2025-05-07 22:20:01 -- 2025-05-07
+Email sent successfully.
+
+2025-05-08 22:20:01 -- 2025-05-08
+Email sent successfully.
+
+2025-05-09 22:20:01 -- 2025-05-09
+Email sent successfully.
+
+2025-05-09 22:21:01 -- 2025-05-09
+Email sent successfully.
+
+2025-05-10 22:21:01 -- 2025-05-10
+2025-05-12 22:20:01 -- 2025-05-12
+Email sent successfully.
+
+2025-05-13 22:20:01 -- 2025-05-13
+Email sent successfully.
+
+2025-05-14 22:20:01 -- 2025-05-14
+Email sent successfully.
+
+2025-05-15 22:20:01 -- 2025-05-15
+Email sent successfully.
+
+2025-05-16 22:20:01 -- 2025-05-16
+Email sent successfully.
+
+2025-05-16 22:21:01 -- 2025-05-16
+Email sent successfully.
+
+2025-05-17 22:21:01 -- 2025-05-17
+2025-05-19 22:20:01 -- 2025-05-19
+Email sent successfully.
+
+2025-05-20 22:20:01 -- 2025-05-20
+Email sent successfully.
+
+2025-05-21 22:20:01 -- 2025-05-21
+Email sent successfully.
+
+2025-05-22 22:20:01 -- 2025-05-22
+Email sent successfully.
+
+2025-05-23 22:20:02 -- 2025-05-23
+Email sent successfully.
+
+2025-05-23 22:21:01 -- 2025-05-23
+Email sent successfully.
+
+2025-05-24 22:21:01 -- 2025-05-24
+2025-05-26 22:20:01 -- 2025-05-26
+Email sent successfully.
+
+2025-05-27 22:20:01 -- 2025-05-27
+Email sent successfully.
+
+2025-05-28 22:20:01 -- 2025-05-28
+Email sent successfully.
+
+2025-05-29 22:20:01 -- 2025-05-29
+Email sent successfully.
+
+2025-05-30 22:20:02 -- 2025-05-30
+Email sent successfully.
+
+2025-05-30 22:21:01 -- 2025-05-30
+Email sent successfully.
+
+2025-05-31 22:21:01 -- 2025-05-31
+2025-06-02 22:20:01 -- 2025-06-02
+Email sent successfully.
+
+2025-06-03 22:20:01 -- 2025-06-03
+Email sent successfully.
+
+2025-06-04 22:20:01 -- 2025-06-04
+Email sent successfully.
+
+2025-06-05 22:20:01 -- 2025-06-05
+Email sent successfully.
+
+2025-06-06 22:20:01 -- 2025-06-06
+Email sent successfully.
+
+2025-06-06 22:21:01 -- 2025-06-06
+Email sent successfully.
+
+2025-06-07 22:21:01 -- 2025-06-07
+2025-06-09 22:20:02 -- 2025-06-09
+Email sent successfully.
+
+2025-06-10 22:20:01 -- 2025-06-10
+Email sent successfully.
+
+2025-06-11 22:20:02 -- 2025-06-11
+Email sent successfully.
+
+2025-06-12 22:20:01 -- 2025-06-12
+Email sent successfully.
+
+2025-06-13 22:20:01 -- 2025-06-13
+Email sent successfully.
+
+2025-06-13 22:21:01 -- 2025-06-13
+Email sent successfully.
+
+2025-06-14 22:21:01 -- 2025-06-14
+2025-06-16 22:20:01 -- 2025-06-16
+Email sent successfully.
+
+2025-06-17 22:20:01 -- 2025-06-17
+Email sent successfully.
+
+2025-06-18 22:20:01 -- 2025-06-18
+Email sent successfully.
+
+2025-06-19 22:20:01 -- 2025-06-19
+Email sent successfully.
+
+2025-06-20 22:20:01 -- 2025-06-20
+Email sent successfully.
+
+2025-06-20 22:21:01 -- 2025-06-20
+Email sent successfully.
+
+2025-06-21 22:21:01 -- 2025-06-21
+2025-06-23 22:20:01 -- 2025-06-23
+Email sent successfully.
+
+2025-06-24 22:20:01 -- 2025-06-24
+Email sent successfully.
+
+2025-06-25 22:20:01 -- 2025-06-25
+Email sent successfully.
+
+2025-06-26 22:20:01 -- 2025-06-26
+PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php:94
+Stack trace:
+#0 /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php(148): getSales()
+#1 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 94
+2025-06-27 22:20:01 -- 2025-06-27
+PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php:94
+Stack trace:
+#0 /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php(148): getSales()
+#1 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 94
+2025-06-27 22:21:01 -- 2025-06-27
+PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php:94
+Stack trace:
+#0 /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php(162): getSales()
+#1 {main}
+  thrown in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 94
+2025-06-28 22:21:01 -- 2025-06-28
+PHP Notice:  Undefined index: email in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 145
+
+Notice: Undefined index: email in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 145
+2025-06-30 22:20:01 -- 2025-06-30
+PHP Warning:  Division by zero in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 125
+
+Warning: Division by zero in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 125
+PHP Warning:  Division by zero in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 126
+
+Warning: Division by zero in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 126
+PHP Warning:  Division by zero in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 130
+
+Warning: Division by zero in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 130
+PHP Warning:  Division by zero in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 131
+
+Warning: Division by zero in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 131
+Email sent successfully.
+
+2025-07-01 22:20:01 -- 2025-07-01
+Email sent successfully.
+
+2025-07-02 22:20:01 -- 2025-07-02
+Email sent successfully.
+
+2025-07-03 22:20:01 -- 2025-07-03
+Email sent successfully.
+
+2025-07-04 22:20:01 -- 2025-07-04
+Email sent successfully.
+
+2025-07-04 22:21:01 -- 2025-07-04
+PHP Notice:  Undefined index: email in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 145
+
+Notice: Undefined index: email in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 145
+Email sent successfully.
+
+2025-07-05 22:21:01 -- 2025-07-05
+PHP Notice:  Undefined index: email in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 145
+
+Notice: Undefined index: email in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 145
+2025-07-07 22:20:01 -- 2025-07-07
+Email sent successfully.
+
+2025-07-08 22:20:01 -- 2025-07-08
+Email sent successfully.
+
+2025-07-09 22:20:01 -- 2025-07-09
+Email sent successfully.
+
+2025-07-10 22:20:01 -- 2025-07-10
+Email sent successfully.
+
+2025-07-11 22:20:02 -- 2025-07-11
+Email sent successfully.
+
+2025-07-11 22:21:01 -- 2025-07-11
+PHP Notice:  Undefined index: email in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 145
+
+Notice: Undefined index: email in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 145
+Email sent successfully.
+
+2025-07-12 22:21:01 -- 2025-07-12
+PHP Notice:  Undefined index: email in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 145
+
+Notice: Undefined index: email in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 145
+2025-07-14 22:20:01 -- 2025-07-14
+Email sent successfully.
+
+2025-07-15 22:20:01 -- 2025-07-15
+Email sent successfully.
+
+2025-07-16 18:55:01 -- 2025-07-16
+Email sent successfully.
+
+2025-07-17 18:55:01 -- 2025-07-17
+Email sent successfully.
+
+2025-07-18 18:55:01 -- 2025-07-18
+Email sent successfully.
+
+2025-07-18 18:57:01 -- 2025-07-18
+PHP Notice:  Undefined index: email in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 145
+
+Notice: Undefined index: email in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 145
+Email sent successfully.
+
+2025-07-19 18:57:01 -- 2025-07-19
+PHP Notice:  Undefined index: email in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 145
+
+Notice: Undefined index: email in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 145
+2025-07-21 18:55:01 -- 2025-07-21
+Email sent successfully.
+
+2025-07-22 18:55:01 -- 2025-07-22
+Email sent successfully.
+
+2025-07-23 18:55:02 -- 2025-07-23
+Email sent successfully.
+
+2025-07-24 18:55:01 -- 2025-07-24
+Email sent successfully.
+
+2025-07-25 18:55:01 -- 2025-07-25
+Email sent successfully.
+
+2025-07-25 18:57:01 -- 2025-07-25
+PHP Notice:  Undefined index: email in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 145
+
+Notice: Undefined index: email in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 145
+Email sent successfully.
+
+2025-07-26 18:57:01 -- 2025-07-26
+PHP Notice:  Undefined index: email in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 145
+
+Notice: Undefined index: email in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 145
+2025-07-28 18:55:01 -- 2025-07-28
+Email sent successfully.
+
+2025-07-29 18:55:01 -- 2025-07-29
+Email sent successfully.
+
+2025-07-30 18:55:01 -- 2025-07-30
+Email sent successfully.
+
+2025-07-31 18:55:01 -- 2025-07-31
+Email sent successfully.
+
+2025-08-01 18:55:01 -- 2025-08-01
+Email sent successfully.
+
+2025-08-01 18:57:01 -- 2025-08-01
+PHP Notice:  Undefined index: email in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 145
+
+Notice: Undefined index: email in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 145
+Email sent successfully.
+
+2025-08-02 18:57:01 -- 2025-08-02
+PHP Notice:  Undefined index: email in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 145
+
+Notice: Undefined index: email in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 145
+2025-08-04 18:55:01 -- 2025-08-04
+Email sent successfully.
+
+2025-08-05 18:55:02 -- 2025-08-05
+Email sent successfully.
+
+2025-08-06 18:55:01 -- 2025-08-06
+Email sent successfully.
+
+2025-08-07 18:55:01 -- 2025-08-07
+Email sent successfully.
+
+2025-08-08 18:55:01 -- 2025-08-08
+Email sent successfully.
+
+2025-08-08 18:57:01 -- 2025-08-08
+PHP Notice:  Undefined index: email in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 145
+
+Notice: Undefined index: email in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 145
+Email sent successfully.
+
+2025-08-09 18:57:01 -- 2025-08-09
+PHP Notice:  Undefined index: email in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 145
+
+Notice: Undefined index: email in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 145
+2025-08-11 18:55:01 -- 2025-08-11
+Email sent successfully.
+
+2025-08-12 18:55:01 -- 2025-08-12
+Email sent successfully.
+
+2025-08-13 18:55:02 -- 2025-08-13
+Email sent successfully.
+
+2025-08-14 18:55:01 -- 2025-08-14
+Email sent successfully.
+
+2025-08-15 18:55:02 -- 2025-08-15
+Email sent successfully.
+
+2025-08-15 18:57:01 -- 2025-08-15
+PHP Notice:  Undefined index: email in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 145
+
+Notice: Undefined index: email in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 145
+Email sent successfully.
+
+2025-08-16 18:57:01 -- 2025-08-16
+PHP Notice:  Undefined index: email in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 145
+
+Notice: Undefined index: email in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 145
+2025-08-18 18:55:01 -- 2025-08-18
+Email sent successfully.
+
+2025-08-19 18:55:01 -- 2025-08-19
+Email sent successfully.
+
+2025-08-20 18:55:01 -- 2025-08-20
+Email sent successfully.
+
+2025-08-21 18:55:01 -- 2025-08-21
+Email sent successfully.
+
+2025-08-22 18:55:01 -- 2025-08-22
+Email sent successfully.
+
+2025-08-22 18:57:01 -- 2025-08-22
+PHP Notice:  Undefined index: email in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 145
+
+Notice: Undefined index: email in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 145
+Email sent successfully.
+
+2025-08-23 18:57:01 -- 2025-08-23
+PHP Notice:  Undefined index: email in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 145
+
+Notice: Undefined index: email in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 145
+2025-08-25 18:55:01 -- 2025-08-25
+Email sent successfully.
+
+2025-08-26 18:55:01 -- 2025-08-26
+Email sent successfully.
+
+2025-08-27 18:55:01 -- 2025-08-27
+Email sent successfully.
+
+2025-08-28 18:55:01 -- 2025-08-28
+Email sent successfully.
+
+2025-08-29 18:55:02 -- 2025-08-29
+Email sent successfully.
+
+2025-08-29 18:57:01 -- 2025-08-29
+PHP Notice:  Undefined index: email in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 145
+
+Notice: Undefined index: email in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 145
+Email sent successfully.
+
+2025-08-30 18:57:01 -- 2025-08-30
+PHP Notice:  Undefined index: email in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 145
+
+Notice: Undefined index: email in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 145
+2025-09-01 18:55:01 -- 2025-09-01
+Email sent successfully.
+
+2025-09-02 18:55:01 -- 2025-09-02
+Email sent successfully.
+
+2025-09-03 18:55:01 -- 2025-09-03
+Email sent successfully.
+
+2025-09-04 18:55:01 -- 2025-09-04
+Email sent successfully.
+
+2025-09-05 18:55:01 -- 2025-09-05
+Email sent successfully.
+
+2025-09-05 18:57:01 -- 2025-09-05
+PHP Notice:  Undefined index: email in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 145
+
+Notice: Undefined index: email in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 145
+Email sent successfully.
+
+2025-09-06 18:57:01 -- 2025-09-06
+PHP Notice:  Undefined index: email in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 145
+
+Notice: Undefined index: email in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 145
+2025-09-08 18:55:01 -- 2025-09-08
+Email sent successfully.
+
+2025-09-09 18:55:01 -- 2025-09-09
+Email sent successfully.
+
+2025-09-10 18:55:01 -- 2025-09-10
+Email sent successfully.
+
+2025-09-11 18:55:01 -- 2025-09-11
+Email sent successfully.
+
+2025-09-12 18:55:01 -- 2025-09-12
+Email sent successfully.
+
+2025-09-12 18:57:02 -- 2025-09-12
+PHP Notice:  Undefined index: email in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 145
+
+Notice: Undefined index: email in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 145
+Email sent successfully.
+
+2025-09-13 18:57:01 -- 2025-09-13
+PHP Notice:  Undefined index: email in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 145
+
+Notice: Undefined index: email in /srv/www/htdocs/ProSpeaking/Reports/Sales/dailySales.php on line 145
+2025-09-15 18:55:01 -- 2025-09-15
+Email sent successfully.
+
