@@ -3,8 +3,8 @@
  * Load shared config: production path first, then repo dev/php_include.php.
  */
 require_once __DIR__ . '/env.php';
-prospeaking_configure_errors();
 prospeaking_load_env();
+prospeaking_configure_errors();
 
 if (function_exists('connectToCluster')) {
     return;

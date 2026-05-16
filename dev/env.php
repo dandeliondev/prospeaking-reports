@@ -2,8 +2,22 @@
 /**
  * Load dev/.env into the environment (simple KEY=VALUE format).
  */
+function prospeaking_is_debug(): bool
+{
+    $flag = getenv('APP_DEBUG') ?: ($_ENV['APP_DEBUG'] ?? '');
+    return in_array(strtolower((string) $flag), ['1', 'true', 'yes', 'on'], true);
+}
+
 function prospeaking_configure_errors(): void
 {
+    if (prospeaking_is_debug()) {
+        ini_set('display_errors', '1');
+        ini_set('display_startup_errors', '1');
+        error_reporting(E_ALL);
+        mysqli_report(MYSQLI_REPORT_ERROR | MYSQLI_REPORT_STRICT);
+        return;
+    }
+
     ini_set('display_errors', '0');
     ini_set('display_startup_errors', '0');
     error_reporting(E_ALL & ~E_WARNING & ~E_NOTICE & ~E_DEPRECATED & ~E_STRICT);

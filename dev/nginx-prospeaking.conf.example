@@ -1,0 +1,31 @@
+# Example site for Ubuntu nginx + PHP-FPM.
+# Copy to /etc/nginx/sites-available/prospeaking and adjust paths.
+#
+#   sudo ln -s /etc/nginx/sites-available/prospeaking /etc/nginx/sites-enabled/
+#   sudo nginx -t && sudo systemctl reload nginx
+
+server {
+    listen 80;
+    server_name prospeaking.local;   # or your domain
+
+    # Must be the repo root (where index.php and Reports/ live)
+    root /var/www/prospeaking;
+    index index.php index.html;
+
+    access_log /var/log/nginx/prospeaking-access.log;
+    error_log  /var/log/nginx/prospeaking-error.log;
+
+    location / {
+        try_files $uri $uri/ /index.php?$query_string;
+    }
+
+    location ~ \.php$ {
+        include snippets/fastcgi-php.conf;
+        fastcgi_pass unix:/run/php/php8.2-fpm.sock;   # adjust: php8.1-fpm, etc.
+        fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name;
+    }
+
+    location ~ /\. {
+        deny all;
+    }
+}
