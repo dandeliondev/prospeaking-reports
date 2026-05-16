@@ -1,5 +1,28 @@
 # Deploying ProSpeaking (nginx on Ubuntu)
 
+## PHP file downloads instead of running (shows `<?php` in browser)
+
+nginx is **not** passing `.php` to PHP-FPM — it treats PHP as a static file.
+
+**Fix:** install PHP-FPM and add a `location ~ \.php$` block. See `dev/nginx-prospeaking.conf.example`.
+
+```bash
+sudo apt install php8.2-fpm php8.2-mysqli   # match your PHP version
+sudo systemctl enable --now php8.2-fpm
+ls /run/php/php8.2-fpm.sock                 # use this path in nginx fastcgi_pass
+sudo nginx -t && sudo systemctl reload nginx
+```
+
+Test:
+
+```bash
+echo '<?php phpinfo();' | sudo tee /var/www/prospeaking/info-test.php
+# visit /info-test.php — should show PHP info, not download
+# then: sudo rm /var/www/prospeaking/info-test.php
+```
+
+---
+
 ## 403 Forbidden — usually **not** PHP
 
 nginx returns **403** before PHP runs. Fix nginx first; then use `APP_DEBUG` for PHP errors.
