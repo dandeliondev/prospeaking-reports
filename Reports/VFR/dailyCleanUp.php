@@ -1,11 +1,7 @@
 <?php
-ini_set('display_errors', 1);
-ini_set('display_startup_errors', 1);
-error_reporting(E_ALL);
-mysqli_report(MYSQLI_REPORT_ERROR | MYSQLI_REPORT_STRICT);
-include_once("/srv/www/php_include.php");
+require_once __DIR__ . '/../../config/bootstrap.php';
 $pslw = connectToCluster('pslw', $clusters);
-mysqli_select_db($pslw, "VFR");
+prospeaking_select_db($pslw, "VFR");
 
 $date = isset($_GET['date']) ? date("Y-m-d", strtotime($_GET['date'])) : $yestDate;
 $table = (isset($_GET['date']) && date("Y-m-d", strtotime($_GET['date'])) != $yestDate) ? "ARCHIVE" : "DAILY";
@@ -21,4 +17,4 @@ if ($table === "DAILY") {
 
 // Close the statement and the database connection
 $stmt->close();
-mysqli_close($pslw);
+prospeaking_close($pslw);

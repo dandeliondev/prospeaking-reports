@@ -1,9 +1,5 @@
 <?php
-ini_set('display_errors', 1);
-ini_set('display_startup_errors', 1);
-error_reporting(E_ALL);
-mysqli_report(MYSQLI_REPORT_ERROR | MYSQLI_REPORT_STRICT);
-include_once("/srv/www/php_include.php");
+require_once __DIR__ . '/../../config/bootstrap.php';
 
 // Timestamp for logging
 $curTimestamp = date('Y-m-d H:i:s');
@@ -11,7 +7,7 @@ $curTimestamp = date('Y-m-d H:i:s');
 // Connect clusters
 $pslv = connectToCluster('pslv', $clusters);
 $pslw = connectToCluster('pslw', $clusters);
-mysqli_select_db($pslw, "DPH2");
+prospeaking_select_db($pslw, "DPH2");
 
 // CLI flag parsing
 $options = getopt("", ["full-day::"]);
@@ -202,7 +198,7 @@ foreach ($pslKeys as $clusterName) {
     }
 
     $stmt->close();
-    mysqli_close($psl);
+    prospeaking_close($psl);
     echo date('Y-m-d H:i:s') . " Imported cluster {$clusterName}\n";
 }
 
@@ -216,6 +212,6 @@ if ($fullDay && $table === 'DAILY_INSERT') {
         ON DUPLICATE KEY UPDATE AGENT_NAME=VALUES(AGENT_NAME),NUM_SALES=VALUES(NUM_SALES),TOTAL_AMOUNT=VALUES(TOTAL_AMOUNT),FINAL_DISPOS=VALUES(FINAL_DISPOS),TOTAL_HOURS=VALUES(TOTAL_HOURS),TOTAL_CALLS=VALUES(TOTAL_CALLS),RRPM=VALUES(RRPM),WRAP=VALUES(WRAP),TALK=VALUES(TALK),WAIT=VALUES(WAIT),CCs=VALUES(CCs),CC_AMT=VALUES(CC_AMT),LIST_NAME=VALUES(LIST_NAME),XFERS=VALUES(XFERS)");
 }
 
-mysqli_close($pslv);
-mysqli_close($pslw);
+prospeaking_close($pslv);
+prospeaking_close($pslw);
 echo date('Y-m-d H:i:s') . " Import complete for {$date}\n";

@@ -1,11 +1,7 @@
 <?php
-ini_set( 'display_errors', 1 );
-ini_set( 'display_startup_errors', 1 );
-error_reporting( E_ALL );
-mysqli_report( MYSQLI_REPORT_ERROR | MYSQLI_REPORT_STRICT );
-include "/srv/www/php_include.php";
+require_once __DIR__ . '/../../config/bootstrap.php';
 $pslw = connectToCluster('pslw', $clusters);
-mysqli_select_db($pslw, "DPH2");
+prospeaking_select_db($pslw, "DPH2");
 
 for ($i = 1; $i <= 6; $i++) {
     ${"day" . ($i + 1)} = strtoupper(date('l', strtotime("-{$i} days", strtotime($today))));

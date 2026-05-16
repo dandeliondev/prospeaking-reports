@@ -1,12 +1,8 @@
 <?php
-ini_set('display_errors', 1);
-ini_set('display_startup_errors', 1);
-error_reporting(E_ALL);
-mysqli_report(MYSQLI_REPORT_ERROR | MYSQLI_REPORT_STRICT);
-include_once("/srv/www/php_include.php");
+require_once __DIR__ . '/../../config/bootstrap.php';
 $pslv = connectToCluster('pslv', $clusters);
 $pslw = connectToCluster('pslw', $clusters);
-mysqli_select_db($pslw, "DPH");
+prospeaking_select_db($pslw, "DPH");
 
 $curTimestamp = date('Y-m-d H:i:s');
 
@@ -179,7 +175,7 @@ foreach ($pslKeys as $clusterName) {
         }
     }
     $stmt->close();
-    mysqli_close($psl);
+    prospeaking_close($psl);
     $curTimestamp = date('Y-m-d H:i:s');
     echo "$curTimestamp: Successfully imported $date $clusterName DPH data. Please wait... <br />";
 }
@@ -196,5 +192,5 @@ if ($daily == 1) {
     echo "$curTimestamp: All clusters imported and updated $date DPH.";
 }
 
-mysqli_close($pslv);
-mysqli_close($pslw);
+prospeaking_close($pslv);
+prospeaking_close($pslw);

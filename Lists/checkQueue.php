@@ -1,4 +1,5 @@
 <?php
+require_once __DIR__ . '/../config/bootstrap.php';
 
 $directory = '/srv/www/htdocs/ProSpeaking/Lists/pending'; 
 

@@ -1,13 +1,9 @@
 <?php
-ini_set('display_errors', 1);
-ini_set('display_startup_errors', 1);
-error_reporting(E_ALL);
-mysqli_report(MYSQLI_REPORT_ERROR | MYSQLI_REPORT_STRICT);
-include_once("/srv/www/php_include.php");
+require_once __DIR__ . '/../../config/bootstrap.php';
 $psl1 = connectToCluster('psl1', $clusters);
 $pslv = connectToCluster('pslv', $clusters);
 $pslw = connectToCluster('pslw', $clusters);
-mysqli_select_db($pslw, "DPH");
+prospeaking_select_db($pslw, "DPH");
 
 if (isset($_GET['date'])) {
     $date = date("Y-m-d", strtotime($_GET['date']));
@@ -318,7 +314,7 @@ if ($daily == 1) {
 }
 
 
-mysqli_close($psl1);
-mysqli_close($psl2);
-mysqli_close($pslv);
-mysqli_close($pslw);
+prospeaking_close($psl1);
+prospeaking_close($psl2);
+prospeaking_close($pslv);
+prospeaking_close($pslw);

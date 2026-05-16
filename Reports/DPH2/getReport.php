@@ -1,13 +1,9 @@
 <?php
+require_once __DIR__ . '/../../config/bootstrap.php';
 // Enable error reporting for debugging
-ini_set('display_errors', 1);
-ini_set('display_startup_errors', 1);
-error_reporting(E_ALL);
-mysqli_report(MYSQLI_REPORT_ERROR | MYSQLI_REPORT_STRICT);
 
-include "/srv/www/php_include.php";
 $pslw = connectToCluster('pslw', $clusters);
-mysqli_select_db($pslw, "DPH2");
+prospeaking_select_db($pslw, "DPH2");
 
 // Function to dynamically build WHERE clause, table selection, grouping, and sorting
 function buildQueryParams($params, &$table) {
@@ -316,4 +312,4 @@ echo "<div class='collFoot'><table>$colgroup
 
 
 
-mysqli_close($pslw);
+prospeaking_close($pslw);

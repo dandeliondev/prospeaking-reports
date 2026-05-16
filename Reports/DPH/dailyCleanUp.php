@@ -1,9 +1,5 @@
 <?php
-ini_set('display_errors', 1);
-ini_set('display_startup_errors', 1);
-error_reporting(E_ALL);
-mysqli_report(MYSQLI_REPORT_ERROR | MYSQLI_REPORT_STRICT);
-include_once("/srv/www/php_include.php");
+require_once __DIR__ . '/../../config/bootstrap.php';
 
 echo "\r\n\r\n$curTimeStamp \r\n";
 
@@ -18,7 +14,7 @@ if (file_exists($flag)) {
 }*/
 
 $pslw = connectToCluster('pslw', $clusters);
-mysqli_select_db($pslw, "DPH");
+prospeaking_select_db($pslw, "DPH");
 $psl1 = connectToCluster('psl1', $clusters);
 $psl2 = connectToCluster('psl2', $clusters);
 
@@ -102,6 +98,6 @@ if ($table === "DAILY") {
 echo "$curTimeStamp: Cleanup Complete";
 // Close the statement and the database connection
 $stmt->close();
-mysqli_close($psl1);
-mysqli_close($psl2);
-mysqli_close($pslw);
+prospeaking_close($psl1);
+prospeaking_close($psl2);
+prospeaking_close($pslw);

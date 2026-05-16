@@ -1,13 +1,9 @@
 <?php
-ini_set('display_errors', 1);
-ini_set('display_startup_errors', 1);
-error_reporting(E_ALL);
+require_once __DIR__ . '/../config/bootstrap.php';
 
-mysqli_report(MYSQLI_REPORT_ERROR | MYSQLI_REPORT_STRICT);
-include_once("/srv/www/php_include.php");
 $psl1 = connectToCluster('psl1', $clusters);
 $pslw = connectToCluster('pslw', $clusters);
-mysqli_select_db($pslw, "Sales");
+prospeaking_select_db($pslw, "Sales");
 
 if (isset($_GET['date'])) {
     $date = "'{$_GET['date']}'";

@@ -1,5 +1,5 @@
 <?php
-include_once("srv/www/php_include.php");
+require_once __DIR__ . '/config/bootstrap.php';
 if (isset($_GET['unlink'])) {
     unlink($_GET['unlink']);
 }

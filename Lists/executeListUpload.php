@@ -1,9 +1,5 @@
 <?php
-include( "/srv/www/php_include.php" );
-ini_set( 'display_errors', 1 );
-ini_set( 'display_startup_errors', 1 );
-error_reporting( E_ALL );
-mysqli_report( MYSQLI_REPORT_ERROR | MYSQLI_REPORT_STRICT );
+require_once __DIR__ . '/../config/bootstrap.php';
 ini_set('memory_limit', '1024M');
 
 echo "$curTimeStamp\nStarting List Upload...\r\n";

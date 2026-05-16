@@ -1,10 +1,6 @@
 <?php
-ini_set('display_errors', 1);
-ini_set('display_startup_errors', 1);
-error_reporting(E_ALL);
-mysqli_report(MYSQLI_REPORT_ERROR | MYSQLI_REPORT_STRICT);
-include("/srv/www/php_include.php");
-include("/srv/www/vfr_include.php");
+require_once __DIR__ . '/../config/bootstrap.php';
+prospeaking_load_vfr_include();
 
 $pslv = connectToCluster('pslv', $clusters);
 

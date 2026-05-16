@@ -1,9 +1,5 @@
 <?php
-include_once( "/srv/www/php_include.php" );
-ini_set( 'display_errors', 1 );
-ini_set( 'display_startup_errors', 1 );
-error_reporting( E_ALL );
-mysqli_report( MYSQLI_REPORT_ERROR | MYSQLI_REPORT_STRICT );
+require_once __DIR__ . '/../../config/bootstrap.php';
 
 $pslv = connectToCluster('pslv', $clusters); // verifier cluster
 
@@ -50,4 +46,4 @@ if ($noAmtCount == 0 && $dupCount == 0) {
    echo "VFR Report";
 }
 
-mysqli_close($pslv);
+prospeaking_close($pslv);

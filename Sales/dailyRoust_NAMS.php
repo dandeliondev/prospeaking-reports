@@ -1,12 +1,8 @@
 <?php
-ini_set('display_errors', 1);
-ini_set('display_startup_errors', 1);
-error_reporting(E_ALL);
-mysqli_report(MYSQLI_REPORT_ERROR | MYSQLI_REPORT_STRICT);
+require_once __DIR__ . '/../config/bootstrap.php';
 
-include_once("/srv/www/php_include.php");
 $pslw = connectToCluster('pslw', $clusters);
-mysqli_select_db($pslw, "Sales");
+prospeaking_select_db($pslw, "Sales");
 
 setlocale(LC_ALL, 'en_US.UTF-8');
 mysqli_set_charset($pslw, "utf8mb4");
