@@ -1,0 +1,31 @@
+services:
+  db:
+    image: mysql:8.0
+    environment:
+      MYSQL_ROOT_PASSWORD: prospeaking
+    ports:
+      - "3307:3306"
+    volumes:
+      - ./dev/seed.sql:/docker-entrypoint-initdb.d/01-seed.sql:ro
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "127.0.0.1", "-uroot", "-pprospeaking"]
+      interval: 3s
+      timeout: 5s
+      retries: 15
+      start_period: 20s
+
+  web:
+    build: ./dev
+    ports:
+      - "8080:8080"
+    volumes:
+      - .:/srv/www/htdocs/ProSpeaking:ro
+      - ./dev/php_include.php:/srv/www/php_include.php:ro
+    environment:
+      DB_HOST: db
+      DB_USER: root
+      DB_PASS: prospeaking
+      DB_PORT: "3306"
+    depends_on:
+      db:
+        condition: service_healthy

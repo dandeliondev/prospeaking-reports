@@ -1,9 +1,4 @@
-<?php
-ini_set( 'display_errors', 1 );
-ini_set( 'display_startup_errors', 1 );
-error_reporting( E_ALL );
-mysqli_report( MYSQLI_REPORT_ERROR | MYSQLI_REPORT_STRICT );
-include( "/srv/www/php_include.php" );
+<?phprequire_once __DIR__ . '/../../dev/load.php';
 $pslw = connectToCluster('pslw', $clusters);
 mysqli_select_db($pslw, "VFR");
 
@@ -27,9 +22,7 @@ for ($i = 1; $i <= 6; $i++) {
 
 <body>
 <div id="logo-container" style="flex-shrink: 0;">
-            <a href="#">
-                <img src="../../psl.png" alt="Logo" style="height: 40px; width: auto;">
-            </a>
+            <a href="#" style="font-size: 22px; font-weight: bold; color: #333; text-decoration: none; line-height: 40px;">ProSpeaking</a>
         </div>        
 <nav class="navbar navbar-default navbar-fixed-top" style='width:1024px;margin:0 auto;background:lavender'>
     <div class="container" style="text-align:center;">  

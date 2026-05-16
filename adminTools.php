@@ -1,5 +1,5 @@
 <?php
-include_once("srv/www/php_include.php");
+require_once __DIR__ . '/dev/load.php';
 if (isset($_GET['unlink'])) {
     unlink($_GET['unlink']);
 }
@@ -21,9 +21,7 @@ if (isset($_GET['unlink'])) {
     <div class="container" style="display: flex; justify-content: space-between; align-items: center;">
     
      <div id="logo-container" style="flex-shrink: 0;">
-            <a href="#">
-                <img src="psl.png" alt="Logo" style="height: 40px; width: auto;">
-            </a>
+            <a href="#" style="font-size: 22px; font-weight: bold; color: #333; text-decoration: none; line-height: 40px;">ProSpeaking</a>
         </div>
     
         <div id="center_container" style='display: grid;grid-template-columns: 3fr;width:400px;margin:0 auto'>

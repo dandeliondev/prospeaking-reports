@@ -1,9 +1,5 @@
 <?php
-// fullDay.php — AJAX trigger for full-day import
-ini_set('display_errors', 1);
-ini_set('display_startup_errors', 1);
-error_reporting(E_ALL);
-include_once("/srv/www/php_include.php");
+// fullDay.php — AJAX trigger for full-day importrequire_once __DIR__ . '/../dev/load.php';
 
 // Path to skip flag file and import script
 $skipFlagFile  = '/srv/www/htdocs/ProSpeaking/Reports/DPH2/skip_cron.flag';

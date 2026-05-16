@@ -1,11 +1,5 @@
 <?php
-include_once( "/srv/www/php_include.php" );
-ini_set( 'display_errors', 1 );
-ini_set( 'display_startup_errors', 1 );
-error_reporting( E_ALL );
-mysqli_report( MYSQLI_REPORT_ERROR | MYSQLI_REPORT_STRICT );
-
-$psl1 = connectToCluster('psl1', $clusters);
+require_once __DIR__ . '/../dev/load.php';$psl1 = connectToCluster('psl1', $clusters);
 
 if ( isset( $_GET[ 'list' ] ) ) {
     $list = $_GET['list'];
