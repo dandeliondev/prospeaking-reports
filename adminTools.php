@@ -21,13 +21,11 @@ if (isset($_GET['unlink'])) {
     <div class="container" style="display: flex; justify-content: space-between; align-items: center;">
     
      <div id="logo-container" style="flex-shrink: 0;">
-            <a href="#">
-                <img src="psl.png" alt="Logo" style="height: 40px; width: auto;">
-            </a>
+            <a href="#" class="prospeaking-logo" title="ProSpeaking">ProSpeaking</a>
         </div>
     
         <div id="center_container" style='display: grid;grid-template-columns: 3fr;width:400px;margin:0 auto'>
-            <div><a target="_blank" href="Reports/DPH/index.php">DPH Report</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a target="_blank" href="Reports/DPH2/index.php">DPH (Hourly) Report</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a target="_blank" href="Reports/VFR/index.php">VFR Report</a>
+            <div><a target="_blank" href="Reports/DPH/index.php">DPH Report</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a target="_blank" href="Reports/DPH2/index.php">DPH (Hourly) Report</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a target="_blank" href="Reports/VFR/index.php">VFR Report</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a target="_blank" href="dbStatus.php">DB diagnostics</a>
             <h3 style="margin-top:0px">What would you like to do?<br />
                 <select id='range' style='padding: 0 10px'>
                     <option value='' disabled selected></option>

@@ -23,9 +23,7 @@ for ($i = 1; $i <= 6; $i++) {
 
 <body>
 <div id="logo-container" style="flex-shrink: 0;">
-            <a href="#">
-                <img src="../../psl.png" alt="Logo" style="height: 40px; width: auto;">
-            </a>
+            <a href="#" class="prospeaking-logo" title="ProSpeaking">ProSpeaking</a>
         </div>        
 <nav class="navbar navbar-default navbar-fixed-top" style='width:1024px;margin:0 auto;background:lavender'>
     <div class="container" style="text-align:center;">  

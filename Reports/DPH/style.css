@@ -11,6 +11,23 @@ body{
 	
 }
 
+#logo-container .prospeaking-logo {
+    display: inline-block;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 22px;
+    font-weight: 700;
+    color: #00A2D1;
+    letter-spacing: 0.02em;
+    line-height: 40px;
+    text-decoration: none;
+}
+
+#logo-container .prospeaking-logo:hover,
+#logo-container .prospeaking-logo:focus {
+    color: #0082a8;
+    text-decoration: none;
+}
+
 table{
 	width:100%;
 }
