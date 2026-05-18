@@ -21,14 +21,11 @@ prospeaking_load_env();
 prospeaking_configure_errors();
 
 if (!function_exists('connectToCluster')) {
+    // php_include.local.php is merged inside php_include.php (clusters, API creds).
     $configCandidates = [
         PROSPEAKING_ROOT . '/config/php_include.php',
         '/srv/www/php_include.php',
     ];
-
-    if (is_readable(PROSPEAKING_ROOT . '/config/php_include.local.php')) {
-        array_unshift($configCandidates, PROSPEAKING_ROOT . '/config/php_include.local.php');
-    }
 
     $loaded = false;
     foreach ($configCandidates as $path) {
